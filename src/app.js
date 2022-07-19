@@ -1,6 +1,6 @@
 console.log("Merhaba Kodlama.io")
 
-//JS type safe değildir
+//JS type safe değildir  tip guvenlıklı degıldır 
 let dolarBugun = 9.30
 
 let dolarDun = 9.20
@@ -17,8 +17,8 @@ const euroDun = 11.2
 console.log(euroDun)
 
 //array
-//camelCasing
-//PascalCasing
+//camelCasing    degiskentanımlamada
+//PascalCasing     c# metot isimleri boyle yaızlır
 let konutKredileri = ["Konut kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredisi"]
 
 console.log("<ul>")
